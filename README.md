@@ -28,12 +28,6 @@ I am a passionate web developer with over **1 year of experience** specializing 
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced Laravel concepts and design patterns.  
-- Modern front-end frameworks and state management techniques.
-
----
-
 ## 📈 Let's Connect!  
 I'm always open to exciting projects and collaborations. Feel free to explore my repositories and reach out for opportunities!  
 

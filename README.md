@@ -1,9 +1,5 @@
 # 👋 Hello, I'm Zakaria!
 
-🎯 **Full-Stack Web Developer | Vue.js & Laravel**
-
----
-
 ## 🌟 About Me  
 I am a passionate web developer with over **1 year of experience** specializing in **front-end development using Vue.js** and creating powerful **back-end solutions with Laravel**. I thrive on crafting elegant, scalable, and efficient web applications that deliver a seamless user experience.
 

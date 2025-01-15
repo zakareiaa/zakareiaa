@@ -1,6 +1,6 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Zakaria!
 
-🎯 **Full-Stack Web Developer | Vue.js & Laravel Enthusiast**
+🎯 **Full-Stack Web Developer | Vue.js & Laravel**
 
 ---
 
